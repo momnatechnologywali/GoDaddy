@@ -1,0 +1,20 @@
+[20-Aug-2025 06:11:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php:9
+Stack trace:
+#0 /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php(9): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php on line 9
+[20-Aug-2025 06:16:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php:9
+Stack trace:
+#0 /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php(9): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php on line 9
+[20-Aug-2025 12:49:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php:9
+Stack trace:
+#0 /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php(9): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php on line 9
+[26-Aug-2025 13:07:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php:9
+Stack trace:
+#0 /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php(9): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa172.millioncoders.net/public_html/GoDaddy/register.php on line 9
